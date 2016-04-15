@@ -1,3 +1,7 @@
+//  James Moulton
+// April 14, 2016
+// AngularJS cost calculator 
+
 /* To declare the Angular app inside the html */
 (function(){ 
 
